@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+}
+
+h2 {
+    color: darkgreen;
+}
+
+img {
+    border: 3px solid #333;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px grey;
+}
